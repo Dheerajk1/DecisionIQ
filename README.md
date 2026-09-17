@@ -188,6 +188,7 @@ Run the evaluation with:
 python evaluation_test.py
 ```
 
+---
 ## 🔐 Grounding & Hallucination Control
 
 DecisionIQ uses multiple mechanisms to improve the reliability of
