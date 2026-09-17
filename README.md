@@ -165,8 +165,8 @@ with relevant source pages.
                  ┌──────────────────┐
                  │ Answer + Sources │
                  └──────────────────┘
-                 
----
+
+```markdown
 
 ## 🧪 Evaluation
 
@@ -186,7 +186,9 @@ Run the evaluation with:
 ```bash
 python evaluation_test.py
 
+```markdown
 ---
+
 
 ## 🔐 Grounding & Hallucination Control
 
